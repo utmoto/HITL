@@ -15,7 +15,7 @@ https://qiita.com/motonobu_ut/items/f05021b9e885d3770724
 ダウンロードしたフォルダ下で以下を実行ください
 
 ① pythonファイルの実行
-$ python simple_dashboard.py
+$ python simple_dash_board.py
 
 ② 以下にアクセス(デフォルト)
 http://127.0.0.1:8050/
