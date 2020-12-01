@@ -6,7 +6,7 @@ Dashを用いたシンプルな検証ツールです。
 結果をダウンロードできます。
 
 ■ 解説記事
-https://qiita.com/motonobu_ut/items/f05021b9e885d3770724
+https://qiita.com/motonobu_ut/items/0fa3e1f2aa89e1bd5546
 
 ■ 使用方法
 ダウンロードしたフォルダ下で以下を実行ください
